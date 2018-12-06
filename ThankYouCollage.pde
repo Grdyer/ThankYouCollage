@@ -9,7 +9,7 @@ void setup(){
   size(700,700);
   img= loadImage("Thank You.png");
 }
-
+ 
 void draw(){
 background(255);
 image(img,-40,40);
